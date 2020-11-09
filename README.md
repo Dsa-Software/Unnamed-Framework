@@ -17,4 +17,4 @@ We are acepting names, if you have a good idea ;)
 ![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage1.png?raw=true)
 
 ## Stage 2
-![]()
+![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage2.png?raw=true)
