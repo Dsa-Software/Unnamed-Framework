@@ -14,7 +14,7 @@ The project is under the [GPL-3 Lisence](https://github.com/caue-alves/Unnamed-F
 We are acepting names, if you have a good idea ;)
 
 ## Stage 1
-![]()
+![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage1.png?raw=true)
 
 ## Stage 2
 ![]()
