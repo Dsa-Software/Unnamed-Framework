@@ -12,3 +12,9 @@ The project is under the [GPL-3 Lisence](https://github.com/caue-alves/Unnamed-F
 
 ## Name
 We are acepting names, if you have a good idea ;)
+
+## Stage 1
+![]()
+
+## Stage 2
+![]()
