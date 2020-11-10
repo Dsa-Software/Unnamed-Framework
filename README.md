@@ -24,3 +24,15 @@ The concept of the project is one of the most important stages, seeing that you 
 Preparing the infrastructure is another essencial stage befora the project. This practice ensure that you are not going to have problemns with Libs, softwares or the OS in the time of the work.
 
 ![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage2.png?raw=true)
+
+# Stage 3
+
+![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage3.png?raw=true)
+
+# Stage 4
+
+![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage4.png?raw=true)
+
+# Stage 5
+
+![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage5.png?raw=true)
