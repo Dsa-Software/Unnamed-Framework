@@ -39,4 +39,6 @@ After doing is good to review the project, a basic concept of all projects of an
 
 # Stage 5
 
+If the project is done, building is the next step. Building turns the project usable for all publics you needs and turns better the utilization in any OS.
+
 ![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage5.png?raw=true)
