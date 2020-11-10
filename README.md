@@ -27,6 +27,8 @@ Preparing the infrastructure is another essencial stage befora the project. This
 
 # Stage 3
 
+More then the infra, doing is the main project of the project, because that is so important to take care about what are you making and how are you making
+
 ![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage3.png?raw=true)
 
 # Stage 4
