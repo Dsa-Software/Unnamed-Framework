@@ -33,6 +33,8 @@ More then the infra, doing is the main project of the project, because that is s
 
 # Stage 4
 
+After doing is good to review the project, a basic concept of all projects of any kind. Applying a Design Patterns will makes better the maintenance and the performance.
+
 ![](https://github.com/Dsa-Software/Unnamed-Framework/blob/main/img/stage4.png?raw=true)
 
 # Stage 5
